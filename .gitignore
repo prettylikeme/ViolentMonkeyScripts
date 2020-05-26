@@ -1,0 +1,18 @@
+*.*
+
+# 排除测试文件
+[Tt]est/
+
+# 只接受固定类型文件
+!*.gitignore
+!*.md
+!*.js
+
+# 图片
+!*.jpg
+!*.jpeg
+!*.png
+!*.ico
+
+# 样式文件
+!*.editorconfig
